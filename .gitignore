@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+.subtitle_manager_installed.txt
+virtualenv/
+venv/
+.env
