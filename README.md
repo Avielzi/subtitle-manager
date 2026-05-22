@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/github/license/Avielzi/subtitle-manager?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/commits/main)
 [![GitHub Stars](https://img.shields.io/github/stars/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/stargazers)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Avielzi/subtitle-manager/python-app.yml?branch=main&style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/actions)
 
 </div>
 
