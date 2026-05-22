@@ -1,13 +1,16 @@
-
 <div align="center">
 
 # Subtitle Manager
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/github/license/Avielzi/subtitle-manager?style=for-the-badge)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/commits/main)
-[![GitHub Stars](https://img.shields.io/github/stars/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/stargazers)
-
+[![GitHub last commit](https://img.shields.io/github/last-commit/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/network)
+[![GitHub issues](https://img.shields.io/github/issues/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/pulls)
+[![Top language](https://img.shields.io/github/languages/top/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/)
+[![Code size](https://img.shields.io/github/languages/code-size/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/)
 
 </div>
 
@@ -18,7 +21,6 @@
 [English](#english) | [עברית](#hebrew)
 
 </div>
-
 
 ---
 
@@ -41,7 +43,7 @@ This project provides a robust Subtitle Manager, designed to simplify the proces
 
 ### Installation
 
-1.  **Clone the repository** (once it's public):
+1.  **Clone the repository**:
     ```bash
     git clone https://github.com/Avielzi/subtitle-manager.git
     cd subtitle-manager
@@ -124,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### התקנה
 
-1.  **שכפול המאגר** (לאחר שיהיה ציבורי):
+1.  **שכפול המאגר**:
     ```bash
     git clone https://github.com/Avielzi/subtitle-manager.git
     cd subtitle-manager
