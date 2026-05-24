@@ -1,28 +1,13 @@
-<div align="center">
-
 # Subtitle Manager
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/github/license/Avielzi/subtitle-manager?style=for-the-badge)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/network)
-[![GitHub issues](https://img.shields.io/github/issues/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/pulls)
-[![Top language](https://img.shields.io/github/languages/top/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/)
-[![Code size](https://img.shields.io/github/languages/code-size/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/)
-
-</div>
-
----
-
-<div align="center">
+[![GitHub Stars](https://img.shields.io/github/stars/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/network)
+[![GitHub Issues](https://img.shields.io/github/issues/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/pulls)
 
 [English](#english) | [עברית](#hebrew)
-
-</div>
-
----
 
 <a name="english"></a>
 
@@ -104,8 +89,6 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 <a name="hebrew"></a>
 
