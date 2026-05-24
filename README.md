@@ -2,10 +2,8 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/github/license/Avielzi/subtitle-manager?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/network)
-[![GitHub Issues](https://img.shields.io/github/issues/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Avielzi/subtitle-manager?style=for-the-badge)](https://github.com/Avielzi/subtitle-manager/pulls)
+
+
 
 [English](#english) | [עברית](#hebrew)
 
